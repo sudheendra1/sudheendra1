@@ -39,8 +39,8 @@
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudheendra1&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheendra1&layout=compact&theme=radical)
 
 ---
 
