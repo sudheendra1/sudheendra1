@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudheendra Settipalli! 👋
 
-🚀 **Software Engineer | AI & ML Enthusiast | Blockchain Developer**  
+🚀 **Software Engineer | AI & ML Enthusiast | Flutter Developer**  
 💡 Passionate about AI, Blockchain, and building impactful applications.  
 🎯 Always exploring new tech and working on innovative projects.  
 
