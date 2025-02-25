@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Sudheendra Settipalli! 👋
 
 🚀 **Software Engineer | AI & ML Enthusiast | Blockchain Developer**  
 💡 Passionate about AI, Blockchain, and building impactful applications.  
@@ -12,8 +12,9 @@
 - 🔗 Building **Blockchain applications** with Truffle for Smart Contract deployment.  
 - 🏗 Developed **Admission Document Validation System** using **OCR & Web Scraping**.  
 - 📱 Created **PharmCare App** for scanning medication barcodes with Firebase integration.  
-- 🌐 Currently working on **a ChatGPT-like UI in React** & an **LLM-powered API** handling PDFs, images & speech-to-text.  
-- ⚡ **LeBron James fan** – striving for greatness in tech!  
+- 🌐 Currently working on **a ChatGPT-like UI in React**, an **LLM-powered API** handling PDFs, images & speech-to-text, and my **internship projects using Flutter**.  
+- 📱 Experienced in **Flutter** for cross-platform mobile app development.  
+- ⚡ **Lucka Doncic fan** – striving for greatness in tech!  
 
 ---
 
